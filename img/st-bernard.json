@@ -1,0 +1,12 @@
+{
+  "name": "Saint Bernard Doggy",
+  "symbol": "BNFT",
+  "description": "Very cute puppy NFT.",
+  "image": "https://ipfs.io/ipfs/QmUPjADFGEKmfohdTaNcWhp7VGk26h5jXDA7v3VtTnTLcW?filename=st-bernard.png",
+  "attributes": [
+    {
+      "trait_type": "puppy",
+      "value": "saint bernard"
+    }
+  ]
+}
